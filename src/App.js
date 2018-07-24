@@ -11,6 +11,7 @@ class App extends Component {
         </header>
         <p className="App-intro">
          Docker App is running! and connected with git hub!!
+         another commit
         </p>
       </div>
     );
